@@ -15,3 +15,13 @@ function home() {
   
     app_section.appendChild(section);
   }
+
+  function about() {
+    link.href = "#/";
+    link.innerText = "Home";
+  
+    section.innerHTML = "<h1>About</h1>";
+    section.appendChild(link);
+  
+    app_section.appendChild(section);
+  }
