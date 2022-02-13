@@ -1,1 +1,1 @@
-JS-router_and_spgApp
+JS-SPA
